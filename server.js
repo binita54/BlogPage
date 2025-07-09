@@ -80,3 +80,7 @@ app.get("/api/posts/delete/:id", async (req, res) => {
 app.listen(port, () => {
   console.log(`Backend server is running on http://localhost:${port}`);
 });
+// This code sets up an Express server that serves a blog API and a frontend interface.
+// The API allows for creating, reading, updating, and deleting blog posts.
+// The frontend uses EJS templates to render the posts and forms for creating or editing posts.
+// The server listens on port 3000 and communicates with the API running on port 4000.
