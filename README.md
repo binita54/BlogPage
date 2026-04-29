@@ -2,7 +2,7 @@
 
 A blog application built with **Node.js**, **Express**, **RESTAPI**, and **EJS**, where users can read, create, edit, and delete blog posts.
 
-![A](screenshots/Screenshot (264).png)
+![A]("screenshots/Screenshot (264).png")
 ![B](screenshots/SS2.png)
 ![C](screenshots/SS3.png)
 ![D](screenshots/SS4.png)
